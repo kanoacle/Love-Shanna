@@ -1,0 +1,42 @@
+#header {
+  margin: 0;
+  background-color: rgba(84, 255, 209, 0.75);
+}
+
+#love-shanna {
+  color: #333;
+  margin: 0;
+  padding: 35px 0 10px;
+  font-size: 48px;
+  text-transform: uppercase;
+  position: relative;
+  left: 150px;
+}
+
+#main-nav {
+  padding-left: 50px;
+  list-style: none;
+  position: relative;
+  left: 150px;
+  padding-bottom: 35px;
+}
+.nav-item {
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.nav-link {
+  color: #666;
+}
+a:hover {
+  color: #333;
+  text-decoration: none;
+}
+a:visited {
+  color: #666;
+  text-decoration: none;
+}
+a:focus {
+  color: #333;
+  text-decoration: none;
+}
